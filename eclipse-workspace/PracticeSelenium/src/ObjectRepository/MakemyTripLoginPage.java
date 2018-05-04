@@ -32,7 +32,7 @@ public WebElement Email() {
 	 return username;
 }
 public WebElement Password() {
-	 password.sendKeys("Saibaba@123");
+	 password.sendKeys("ruchika");
 	 return password;
 	 
 }
